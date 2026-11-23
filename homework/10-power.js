@@ -6,6 +6,9 @@
 
 function power(base, exponent) {
   // your code
+  let result :number = 1;
+
+  for(let i:number )
 }
 
 // Expected output:
